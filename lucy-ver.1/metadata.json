@@ -1,0 +1,5 @@
+{
+  "name": "Lucy ver.1",
+  "description": "The most accurate data infrastructure for LLMs. Seamlessly feed high-fidelity financial data into your RAG pipelines.",
+  "requestFramePermissions": []
+}
